@@ -4,6 +4,7 @@ A Tensorflow/Keras implementation of Dynamic CNN in the paper:
 [Kalchbrenner, N., Grefenstette, E., and Blunsom, P. (2014). A convolutional neural network for modelling sentences. ACL.](https://aclanthology.org/P14-1062.pdf)
 
 - References
+  - Author's paper (link is above)
   - https://github.com/bicepjai/Deep-Survey-Text-Classification.
 - In Testing
   - I tested this model with the IMDB (Acc: 77.67%, Epoch: 7).
